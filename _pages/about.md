@@ -2,12 +2,12 @@
 layout: about
 title: About
 permalink: /
-subtitle: Graduate student, Department of Physics and Astronomy, University of California, Irvine.
+subtitle: 
 
 profile:
   align: right
-  image: 
-  image_circular: false # crops the image to make it circular
+  image: r.jpg
+  image_circular: true # crops the image to make it circular
   more_info: 
     # <p>555 your office number</p>
     # <p>123 your address street</p>
@@ -17,7 +17,9 @@ news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Under construction. 
+Hi! I am a graduate student in the department of Physics and Astronomy at the University of California, Irvine. I was previously at the Indian Institute of Science, Bangalore where I did my Bachelor of Science (Research) and Master of Science from 2019 to 2024. 
+
+This site is a work in progress—updated whenever inspiration (and free time) strike! 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
