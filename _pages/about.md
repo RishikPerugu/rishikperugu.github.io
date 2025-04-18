@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: Home
 permalink: /
 subtitle: 
 
@@ -18,6 +18,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 Hi! I am a graduate student in the department of Physics and Astronomy at the University of California, Irvine. I was previously at the Indian Institute of Science, Bangalore where I did my Bachelor of Science (Research) and Master of Science from 2019 to 2024. 
+
+I am working in condensed matter theory under the supervision of [Prof. Thomas Scaffidi](https://sites.google.com/view/thomasscaffidi/home). My current research interests are 
+
+* Quantum many-body dynamics
+* Using quantum information tools to understand, classify quantum phases of matter 
+* Open quantum systems. 
 
 This site is a work in progress—updated whenever inspiration (and free time) strike! 
 
