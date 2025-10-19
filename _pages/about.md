@@ -27,7 +27,7 @@ I am working in condensed matter theory under the supervision of [Prof. Thomas S
 
 This site is a work in progress—updated whenever inspiration (and free time) strike! 
 
-<a href="https://info.flagcounter.com/Ay2g"><img src="https://s01.flagcounter.com/count2/Ay2g/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<!-- <a href="https://info.flagcounter.com/Ay2g"><img src="https://s01.flagcounter.com/count2/Ay2g/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a> -->
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
