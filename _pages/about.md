@@ -21,11 +21,11 @@ Hi! I am a graduate student in the department of Physics and Astronomy at the Un
 
 I am working in condensed matter theory under the supervision of [Prof. Thomas Scaffidi](https://sites.google.com/view/thomasscaffidi/home). My current research interests are 
 
-* Quantum many-body dynamics
-* Using quantum information tools to understand, classify quantum phases of matter 
-* Open quantum systems. 
+* Operator growth and Krylov complexity in quantum many-body systems
+* Bounds on quantum transport 
+* Thermalization, Quantum entanglement in isolated quantum many-body systems
+* Many-body open quantum systems. 
 
-This site is a work in progress—updated whenever inspiration (and free time) strike! 
 
 <!-- <a href="https://info.flagcounter.com/Ay2g"><img src="https://s01.flagcounter.com/count2/Ay2g/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a> -->
 

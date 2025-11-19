@@ -11,9 +11,10 @@ horizontal: false
 
 My current research interests are 
 
-* Quantum many-body dynamics
-* Using quantum information tools to understand, classify quantum phases of matter 
-* Open quantum systems. 
+* Operator growth and Krylov complexity in quantum many-body systems
+* Bounds on quantum transport 
+* Thermalization, Quantum entanglement in isolated quantum many-body systems
+* Many-body open quantum systems. 
   
 ### **Undergraduate and Master research experience** 
 * Non-equilibrium dynamics of pure states in the SYK model \
