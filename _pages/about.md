@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: Rishik.jpg
+  image: RishikPic.jpg
   image_circular: true # crops the image to make it circular
   more_info: 
     # <p>RH310R, Rowland Hall</p>
