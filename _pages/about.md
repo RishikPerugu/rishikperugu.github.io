@@ -7,7 +7,7 @@ subtitle:
 profile:
   align: right
   image: Rishik.jpg
-  image_circular: True # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: 
     # <p>RH310R, Rowland Hall</p>
     # <p>Department of Physics and Astronomy</p>
