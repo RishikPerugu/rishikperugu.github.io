@@ -6,12 +6,12 @@ subtitle:
 
 profile:
   align: right
-  image: 
-  image_circular: true # crops the image to make it circular
+  image: Rishik.jpg
+  image_circular: True # crops the image to make it circular
   more_info: 
-    # <p>555 your office number</p>
-    # <p>123 your address street</p>
-    # <p>Your City, State 12345</p>
+    # <p>RH310R, Rowland Hall</p>
+    # <p>Department of Physics and Astronomy</p>
+    # <p>University of California, Irvine</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
