@@ -18,8 +18,7 @@ My current research interests are
   
 ### **Undergraduate and Master research experience** 
 * Non-equilibrium dynamics of pure states in the SYK model \
-  Advisor: Prof. [Sumilan Banerjee](https://sumilanbanerjee.wixsite.com/mysite)\
-  APS Global Summit 2025 [slides](/assets/pdf/RishikPeruguMarchMeeting2025.pdf)
+  Advisor: Prof. [Sumilan Banerjee](https://sumilanbanerjee.wixsite.com/mysite)
 * Neural quantum wavefunctions of SYK ground states \
   Advisor: Prof. [Thomas Scaffidi](https://sites.google.com/view/thomasscaffidi/home)
 * Measures of quantum non-markovianity of a qubit coupled to a cavity+bath\
