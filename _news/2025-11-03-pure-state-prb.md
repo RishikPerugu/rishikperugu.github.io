@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work on the dynamics of pure states in the SYK model has been published in [Physical Review B](https://journals.aps.org/prb/abstract/10.1103/9cbp-7tvv).
+Our paper _Universal nonequilibrium dynamics of pure states and density-dependent thermalization in the Sachdev-Ye-Kitaev model_ has been published in [Physical Review B](https://journals.aps.org/prb/abstract/10.1103/9cbp-7tvv).
