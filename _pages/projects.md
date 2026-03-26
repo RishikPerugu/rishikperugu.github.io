@@ -2,28 +2,29 @@
 layout: page
 title: Research
 permalink: /projects/
-description: 
+description:
 nav: true
 nav_order: 2
-display_categories: 
+display_categories:
 horizontal: false
 ---
 
-My current research interests are 
+My current research interests are
 
-* Operator growth and Krylov complexity in quantum many-body systems
-* Bounds on quantum transport 
-* Thermalization, Quantum entanglement in isolated quantum many-body systems
-* Many-body open quantum systems. 
-  
-### **Undergraduate and Master research experience** 
-* Non-equilibrium dynamics of pure states in the SYK model \
+- Operator growth and Krylov complexity in quantum many-body systems
+- Bounds on quantum transport
+- Thermalization, Quantum entanglement in isolated quantum many-body systems
+- Many-body open quantum systems.
+
+### **Undergraduate and Master research experience**
+
+- Non-equilibrium dynamics of pure states in the SYK model \
   Advisor: Prof. [Sumilan Banerjee](https://sumilanbanerjee.wixsite.com/mysite)
-* Neural quantum wavefunctions of SYK ground states \
+- Neural quantum wavefunctions of SYK ground states \
   Advisor: Prof. [Thomas Scaffidi](https://sites.google.com/view/thomasscaffidi/home)
-* Measures of quantum non-markovianity of a qubit coupled to a cavity+bath\
+- Measures of quantum non-markovianity of a qubit coupled to a cavity+bath\
   Advisor: Prof. [Kanu Sinha](https://www.qooqs.org)
-* DMRG study of the supersolid phase in one-dimensional extended Bose-Hubbard model \
+- DMRG study of the supersolid phase in one-dimensional extended Bose-Hubbard model \
   Advisors: Dr. [Andreas Haller](https://www.tmqs.lu/haller.html), Prof. [Thomas Schmidt](https://www.tmqs.lu/schmidt.html)
-* Effects of inter molecular charge transfer, disorder and temperature in the optical spectra of molecular aggregates \
+- Effects of inter molecular charge transfer, disorder and temperature in the optical spectra of molecular aggregates \
   Advisor: Prof. [Jayashree Nagesh](https://jnchemphys.weebly.com)
