@@ -17,6 +17,7 @@ My current research interests are
 - Many-body open quantum systems.
 
 ### **Talks**
+
 1. _Krylov Winding and Emergent Coherence in Operator Growth Dynamics_, **APS Global Physics Summit, Denver**, March 2026. [slides](/assets/pdf/Krylov Winding APS Global Summit 2026.pdf)
 2. _Non-equilibrium dynamics of pure states in the Sachdev-Ye-Kitaev model_, **APS Global Physics Summit, Anaheim**, March 2025. [slides](/assets/pdf/SYK pure state APS Global Summit 2025.pdf)
 
